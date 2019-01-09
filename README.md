@@ -1,2 +1,3 @@
 # hello-world
-Hello Git!
+Better to run than curse the road.
+Keep exploring the QUANT WORLD
